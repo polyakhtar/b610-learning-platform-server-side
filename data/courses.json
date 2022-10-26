@@ -1,0 +1,39 @@
+[
+    {
+        "id":"1",
+        "title":"Basic C Programs",
+        "description":"C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGY0MgR4z6BY-b3uFZpEO-pTl-9L2y3QbKA&usqp=CAU"
+    },
+    {
+        "id":"2",
+        "title":"The Fundamentals of Computers",
+        "description":"Computer fundamentals tutorial provides basic and advanced concepts of Bootstrap. Our Computer fundamentals is designed for beginners and professionals.",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zFHIXISgMxxTsS2ZxsVEo4rIH5OZ_TGjFQ&usqp=CAU"
+    },
+    {
+        "id":"3",
+        "title":"Cybersecurity",
+        "description":"Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks.",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSRh1UhibpfGk_46hvht06nrUmGr7B47suQ&usqp=CAU"
+    },
+    {
+        "id":"4",
+        "title":"Data Science",
+        "description":"Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights ...",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRY6ZRTxTGqZNYzHJuQKDqPZoXEs53ZtVsA&usqp=CAU"
+    },
+    {
+        "id":"5",
+        "title":"Web Designing",
+        "description":"Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development ...",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiBnQ7mQHsbXCJJDz3TS6hfz2FQNTgoUBuUQ&usqp=CAU"
+    },
+    {
+        "id":"6",
+        "title":"Software Development",
+        "description":"Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLf18BZfDocR6f7c9FLM6bBK4txXkTzl8WA&usqp=CAU"
+    }
+
+]
