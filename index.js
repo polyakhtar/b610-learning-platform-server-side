@@ -10,7 +10,7 @@ app.get('/',(req,res)=>{
 });
 app.get('/courses',(req,res)=>{
     res.send(coursedata)
-});
+})
 app.get('/coursedetaildata',(req,res)=>{
     res.send(coursedetaildata);
 });
