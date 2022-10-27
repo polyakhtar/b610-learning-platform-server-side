@@ -27,3 +27,4 @@ app.get('courses/:id',(req,res)=>{
 app.listen(port,()=>{
     console.log('API running on port',port)
 })
+module.exports=app;
