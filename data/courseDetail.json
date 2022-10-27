@@ -2,36 +2,37 @@
     {
         "id":"1",
         "title":"Basic C Programs",
+        "description":"C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language.",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVE-VNrvffNK_HrKzdydoZ8XejLBLDPoXVzg&usqp=CAU"
     },
     {
         "id":"2",
         "title":"The Fundamentals of Computers",
-        "description":"Computer fundamentals tutorial provides basic and advanced concepts of Bootstrap. Our Computer fundamentals is designed for beginners and professionals.",
+        "description":"Computer fundamentals tutorial provides basic and advanced concepts of Bootstrap. Our Computer fundamentals is designed for beginners and professionals.Computer is an electronic device i.e. used to work with information or compute. It is derived from the Latin word 'computare' which means to calculate.",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zFHIXISgMxxTsS2ZxsVEo4rIH5OZ_TGjFQ&usqp=CAU"
     },
     {
         "id":"3",
         "title":"Cybersecurity",
-        "description":"Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks.",
+        "description":"Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories.",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSRh1UhibpfGk_46hvht06nrUmGr7B47suQ&usqp=CAU"
     },
     {
         "id":"4",
         "title":"Data Science",
-        "description":"Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights ...",
+        "description":"Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data,[1][2] and apply knowledge from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpRY6ZRTxTGqZNYzHJuQKDqPZoXEs53ZtVsA&usqp=CAU"
     },
     {
         "id":"5",
         "title":"Web Designing",
-        "description":"Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development ...",
+        "description":"Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development. Web design used to be focused on designing websites for desktop browsers; however, since the mid-2010s, design for mobile and tablet browsers has become ever-increasingly important.",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiBnQ7mQHsbXCJJDz3TS6hfz2FQNTgoUBuUQ&usqp=CAU"
     },
     {
         "id":"6",
         "title":"Software Development",
-        "description":"Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.",
+        "description":"Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.Software itself is the set of instructions or programs that tell a computer what to do. It is independent of hardware and makes computers programmable.",  
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLf18BZfDocR6f7c9FLM6bBK4txXkTzl8WA&usqp=CAU"
     }
 
